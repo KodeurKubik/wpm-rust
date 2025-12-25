@@ -14,7 +14,9 @@ Press **escape** at any time to leave.
 
 ## Demo
 
-(will be uploaded soon)
+
+https://github.com/user-attachments/assets/3968cf39-4dee-4317-9e8d-dbb40be03af2
+
 
 ## Installation
 
